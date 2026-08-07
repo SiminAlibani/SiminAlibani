@@ -4,12 +4,13 @@
 
 # Building Intelligent Systems from Complex Data
 
+<br>
+
 ### Machine Learning • Computational Intelligence • Signal & Data Analysis
 
+<br>
+
 </div>
-
----
-
 ---
 
 ## 👨‍💻 About Me

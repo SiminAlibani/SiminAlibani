@@ -1,8 +1,14 @@
 # Hi there 👋
 
-Building Intelligent Systems from Complex Data
+<div align="center">
 
-Machine Learning | Computational Intelligence | Signal Processing
+# Building Intelligent Systems from Complex Data
+
+### Machine Learning • Computational Intelligence • Signal & Data Analysis
+
+</div>
+
+---
 
 ---
 

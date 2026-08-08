@@ -14,15 +14,23 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🔹 I am a researcher working at the intersection of **signal processing, machine learning, and computational intelligence**, with a strong interest in developing intelligent systems for complex data analysis.
+👋 **Hi, I'm Simin Alibani.**
 
-🔹 With a background in **electrical engineering** and several years of experience in **space systems and advanced sensing technologies**, I have worked on signal processing, sensor-based algorithms, and data-driven solutions for complex engineering problems.
+🔬 **Researcher** working at the intersection of **Signal Processing, Machine Learning, and Computational Intelligence**.
 
-🔹 Currently, I am exploring **artificial intelligence, deep learning, and computational approaches inspired by natural intelligence**, focusing on how intelligent systems can learn meaningful representations from complex biological and engineered data.
+🧠 Currently exploring **AI, Deep Learning, Multimodal Learning, and computational approaches to natural intelligence**.
 
-🔹 My research interests include **multimodal learning, neural signal analysis, representation learning, computer vision, and intelligent data-driven systems**.
+🛰️ Background in **Electrical Engineering and Space Systems**, with experience in signal processing, sensing, and data-driven algorithms.
+
+🔍 **Research Interests:** Machine Learning, Deep Learning, Signal & Image Processing, Multimodal AI, Neural Data Analysis, Computer Vision, and Scientific AI.
+
+🌐 **Personal Website:** [Coming soon]
+
+📚 **Google Scholar:** [Coming soon]
+
+💼 **LinkedIn:** [Coming soon]
 
 ---
 

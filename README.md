@@ -46,24 +46,5 @@
 
 ---
 
-## 🛠 Technical Skills
-
----
-
-## 🎓 Education
-
----
-
-## 📜 Publications
-
----
-
-## 🏆 Certifications
-
----
-
 ## 📊 GitHub Statistics
 
----
-
-## 📫 Contact

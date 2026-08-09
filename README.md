@@ -1,4 +1,4 @@
-# Hi there 👋
+👋 **Hi, I'm Simin Alibani.**
 
 <div align="center">
 
@@ -15,8 +15,6 @@
 ---
 
 # 💫 About Me
-
-👋 **Hi, I'm Simin Alibani.**
 
 🔬 **Researcher** working at the intersection of **Signal Processing, Machine Learning, and Computational Intelligence**.
 

@@ -1,15 +1,5 @@
 # 👋 **Hi, I'm Simin Alibani.**
 
-<div align="center">
-
-# Building Intelligent Systems from Complex Data
-
-### Machine Learning • Computational Intelligence • Signal & Data Analysis
-
-</div>
-
----
-
 # 💫 About Me
 
 🔬 **Researcher** working at the intersection of **Signal Processing, Machine Learning, and Computational Intelligence**.

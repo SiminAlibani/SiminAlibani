@@ -40,7 +40,6 @@ Over the past three years, my focus has increasingly shifted toward artificial i
 ---
 
 ## 📊 GitHub Statistics
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <table align="center">
@@ -52,7 +51,6 @@ Over the past three years, my focus has increasingly shifted toward artificial i
         alt="GitHub Statistics"
       />
     </td>
-
     <td align="center">
       <img
         src="./profile/streak.svg"
@@ -62,6 +60,10 @@ Over the past three years, my focus has increasingly shifted toward artificial i
     </td>
   </tr>
 </table>
+
+<br>
+
+
 
 <p align="center">
   <img

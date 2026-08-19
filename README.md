@@ -52,17 +52,16 @@ Over the past three years, my focus has increasingly shifted toward artificial i
         alt="GitHub Statistics"
       />
     </td>
+
     <td align="center">
       <img
-        src="https://streak-stats.demolab.com/?user=SiminAlibani&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"
+        src="./profile/streak.svg"
         height="180"
         alt="GitHub Streak"
       />
     </td>
   </tr>
 </table>
-
-<br>
 
 <p align="center">
   <img

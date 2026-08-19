@@ -38,7 +38,9 @@ Over the past three years, my focus has increasingly shifted toward artificial i
 
 ---
 
-### 📂 Current Projects
+### 🔬 Current Project
+
+I am currently collaborating with a research team at the University of Tehran and IPM on investigating neural representations across macaque and human neural signals. The project combines extracellular recordings, including spikes and LFP, with human EEG data, with our current focus on spike activity. We are exploring a range of traditional and modern signal processing and computational approaches to characterize similarities and differences in neural representations and to model relationships across these signal modalities.
 
 ---
 

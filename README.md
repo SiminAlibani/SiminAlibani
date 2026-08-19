@@ -38,7 +38,7 @@ Over the past three years, my focus has increasingly shifted toward artificial i
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" alt="Python"/>
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
